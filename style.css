@@ -1,0 +1,184 @@
+/* #myLabel{ 
+display:block;
+text-align: center;
+font-size: 10em;
+font-family: Helvetica;
+}
+#btnContainer{
+    text-align: center;
+
+}
+.buttons{
+    padding:10px 20px;
+    font-size: 1.5em;
+    color:white;
+    background-color: rgb(133, 133, 236);
+    border-radius: 5px;
+    cursor:pointer;
+    transition: background-color 0.5s;
+}
+.buttons:hover{
+background-color: blue;
+}
+body{
+    text-align: center;
+    font-family:verdana;
+}
+.lables{
+    font-size:3em;
+    
+
+}
+#myButton{
+    font-size:3em; 
+    padding:5px 25px;
+    border-radius: 5px;
+}
+body {
+    text-align: center;
+    font-family: Helvetica;
+    margin-right: 600px;
+    margin-left: 600px;
+
+}
+
+.Buttons {
+    font-size: x-large;
+    padding-bottom: 5px;
+    background-color: rgb(147, 147, 239);
+    transition: 0.3s;
+    border: 2px solid black;
+margin-bottom: 5px;
+}
+
+.Buttons:hover {
+    background-color: blue;
+    color: white;
+    border: 2px solid green;
+
+}
+
+#myLabel {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 5em;
+}
+
+#myh1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content {
+    background-color: orangered;
+    width: auto;
+    border: 2px solid black;
+}
+body{
+    font-family:'Courier New', Courier,;
+    font-weight: bold;
+     text-align:center; 
+
+    padding: 0;
+    margin:0;
+}
+
+h2{
+    font-weight: bolder;
+    color:blue;
+    font-size: 2rem;
+}
+.Heading{
+    text-align: center;
+}
+
+.check{
+    margin:50px auto;
+    max-width:450px;
+    background-color: rgb(176, 176, 239);
+    padding:30px;
+    border-radius:5px;
+    box-shadow:10px 10px 15px rgb(1, 20, 12);
+ 
+}
+.box{
+font-size:larger;
+padding: 10px;
+}
+.align{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.button_align{
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+/* 
+input[type="radio"],
+input[type="checkbox"]{
+    margin-right: 0;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    font-size: 15px;
+   
+    
+} 
+ 
+
+
+button{
+    background-color:rgb(112, 112, 234);
+    color:white;
+    cursor:pointer;
+    box-shadow:4px 4px 10px rgb(119, 115, 115);
+    font-size: 25px;
+ border-radius:5px;
+}
+button:hover{
+    color:white;
+    background-color: blue;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.body{
+max-width:450px;
+background-color:rgb(173, 173, 241);
+margin: 50px auto;
+padding:15px;
+}
+.content{
+    text-align: center;
+}
+ input{
+    text-align: center;  
+    margin-top: 10px;
+    width: 70%;
+    height: 10px;
+}
+#lable1{
+font: bold;
+font-size: larger;
+margin-top:10px;
+}
+#h2{
+    text-align: center;
+}
+.myButton{
+  padding:0%;
+  margin:50px auto;
+    
+}
+ h1{
+    text-shadow: 5px,5px,10,brown;
+   }
+ */
+ 
+
+ 
+ 
